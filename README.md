@@ -1,0 +1,2 @@
+# squinput
+ squircles input yay
