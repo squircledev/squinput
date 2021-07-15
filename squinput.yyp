@@ -2,7 +2,7 @@
   "resources": [
     {"id":{"name":"rmSquirtual","path":"rooms/rmSquirtual/rmSquirtual.yy",},"order":5,},
     {"id":{"name":"squirtual_controller","path":"scripts/squirtual_controller/squirtual_controller.yy",},"order":0,},
-    {"id":{"name":"oSquirtual","path":"objects/oSquirtual/oSquirtual.yy",},"order":1,},
+    {"id":{"name":"oSquirtualTest","path":"objects/oSquirtualTest/oSquirtualTest.yy",},"order":0,},
   ],
   "Options": [
     {"name":"Amazon Fire","path":"options/amazonfire/options_amazonfire.yy",},
@@ -31,6 +31,8 @@
   ],
   "Folders": [
     {"folderPath":"folders/SquirtualController.yy","order":3,"resourceVersion":"1.0","name":"SquirtualController","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/SquirtualController/Scripts.yy","order":2,"resourceVersion":"1.0","name":"Scripts","tags":[],"resourceType":"GMFolder",},
+    {"folderPath":"folders/SquirtualController/Example.yy","order":3,"resourceVersion":"1.0","name":"Example","tags":[],"resourceType":"GMFolder",},
   ],
   "AudioGroups": [
     {"targets":-1,"resourceVersion":"1.3","name":"audiogroup_default","resourceType":"GMAudioGroup",},

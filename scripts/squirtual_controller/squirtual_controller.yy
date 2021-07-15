@@ -2,8 +2,8 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "SquirtualController",
-    "path": "folders/SquirtualController.yy",
+    "name": "Scripts",
+    "path": "folders/SquirtualController/Scripts.yy",
   },
   "resourceVersion": "1.0",
   "name": "squirtual_controller",

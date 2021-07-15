@@ -26,11 +26,11 @@
   "properties": [],
   "overriddenProperties": [],
   "parent": {
-    "name": "SquirtualController",
-    "path": "folders/SquirtualController.yy",
+    "name": "Example",
+    "path": "folders/SquirtualController/Example.yy",
   },
   "resourceVersion": "1.0",
-  "name": "oSquirtual",
+  "name": "oSquirtualTest",
   "tags": [],
   "resourceType": "GMObject",
 }
